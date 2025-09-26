@@ -1,7 +1,6 @@
 # 🤖 IA pour les jeux Gopher et Dodo
 
 ## 📖 Description
-Ce projet a été réalisé dans le cadre d’un travail scolaire.  
 Nous avons conçu et implémenté une **intelligence artificielle** capable de jouer aux jeux **Gopher** et **Dodo**, en utilisant différentes approches issues de la recherche en intelligence artificielle appliquée aux jeux.  
 
 L’objectif était de comparer et d’optimiser plusieurs méthodes de prise de décision face à un adversaire, en prenant en compte les spécificités et symétries propres aux jeux étudiés.
